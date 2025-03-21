@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am an aspiring Data Engineer and a graduate of the postgraduate studies in Big Data Data Engineering at SGH. Currently, I am developing and deepening my skills through courses and active participation in the community. I have basic knowledge of Python, SQL, Linux, Bash, Spark, Databricks, and AWS. I am looking for my first professional challenges in the field of data engineering, where I can further develop my technical skills.
+
+In recent years, I have worked in corporate banking as a collateral expert for funds, where I successfully solved problems and managed processes. This experience has taught me analytical thinking, working with data, and effectively solving complex business issues.
+
 <!--
 **szymsta/szymsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
