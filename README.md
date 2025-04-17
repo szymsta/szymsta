@@ -3,19 +3,12 @@
 I am an **aspiring Big Data Engineer** 📊 and a graduate of postgraduate studies in **Big Data Engineering at SGH**, which I completed in **September 2024** 🎓.
 During my studies, I gained a solid foundation in technical skills:
 
-- 🐍 Python
-- 🧮 SQL
-- 🐧 Linux
-- 💻 Bash
-- ⚡ Apache Spark
-- 🧱 Databricks
-- ☁️ AWS
+    | 🐍 Python | 🧮 SQL | 🐧 Linux & 💻 Bash | ⚡ Apache Spark | 🧱 Databricks | ☁️ AWS |
 
 In recent years, I have worked in corporate banking 💼 as a **Collateral Expert** for investment funds 📈, where I successfully solved problems and managed processes for a **major client – Allianz**.
 This experience strengthened my:
-- 🧠 analytical thinking,
-- 📊 working with data,
-- 🔍 and solving complex business challenges.
+
+    | 🧠 analytical thinking | 📊 working with data | 🔍 solving complex business challenges |
 
 ## Courses 📂
 
