@@ -43,7 +43,7 @@ As well as through personal projects like:
 
 - 🚢 **[Spark AIS Ships](https://github.com/szymsta/spark_ais_ships)** - A project that processes and visualizes ship AIS data using Apache Spark (PySpark).
 
-## Learning & Networking
+## Learning & Networking 🎓
 
 - 📚 I’m actively involved in the **[Big Data Academy community](https://akademia-bigdata.pl/members/staszym)**
 
