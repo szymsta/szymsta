@@ -14,6 +14,8 @@ This experience strengthened my:
 
 I continue to develop my skills through online courses such as:
 
+- 👉 **[Git & GitHub](https://www.udemy.com/certificate/UC-f91307c0-a7dd-452f-84b0-60544ecfd1d4)** - 🎖️ Issued by **Udemy** in **April 2025**.
+
 - 👉 **[Databricks Fundamentals](https://credentials.databricks.com/206db1e4-8836-4785-88f6-3389619ddfe7#acc.lePzf6bd)** - 🎖️ Issued by **Databricks** in **March 2025**.
 
 - 👉 **[Fundament Apache Spark](http://riotechdatafactory.com/wp-content/uploads/2025/03/76bdc79c7186ca2675c1efa233d0a615.pdf)** - 🎖️ Issued by **Riotech Data Factory** in **March 2025**.
