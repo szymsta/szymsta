@@ -54,7 +54,8 @@ As well as through personal projects like:
 I am currently seeking my first professional challenges in data engineering, where I can further grow and apply my technical skills — especially in Big Data environments using tools like Apache Spark ⚡ and Databricks 🧱.  
   
 🚀 My current learning goals include:
-- 📦 Exploring MinIO and Delta Lake
+- 🦩 **Exploring MinIO - ✅ DONE early May 2025** - deployed on a 4-node cluster (2 servers × 2 nodes each), secured with TLS. Cluster is managed via the mc client from a separate management machine
+- 🌊 Exploring Delta Lake
 - 🔧 Running and testing Apache Spark on my own servers
 - 🔁 Learning CI/CD tools such as Jenkins or GitLab
 - 🐳 Gaining hands-on experience with virtualization and Docker
