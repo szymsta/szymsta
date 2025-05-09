@@ -53,15 +53,19 @@ As well as through personal projects like:
 
 I am currently seeking my first professional challenges in data engineering, where I can further grow and apply my technical skills — especially in Big Data environments using tools like Apache Spark ⚡ and Databricks 🧱.  
   
-🚀 My current learning goals include:
+### Completed 🏁
+
 - 🦩 **Exploring MinIO - ✅ DONE early May 2025** - deployed on a 4-node cluster (2 servers × 2 nodes each), secured with TLS. Cluster is managed via the mc client from a separate management machine
+
+### In Progress / Planned 📚
+
 - 🌊 Exploring Delta Lake
 - 🔧 Running and testing Apache Spark on my own servers
 - 🔁 Learning CI/CD tools such as Jenkins or GitLab
 - 🐳 Gaining hands-on experience with virtualization and Docker
 - 📜 Earning the [Databricks Associate Data Engineer certification](https://www.databricks.com/learn/certification/data-engineer-associate)
 
-## Reach Me 🤝 
+## Reach Me 🤝
 
 - 📧 Email: stanislawszymanski89@gmail.com
 - 📱 Phone: +48 515 420 365
