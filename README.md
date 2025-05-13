@@ -55,7 +55,7 @@ I am currently seeking my first professional challenges in data engineering, whe
   
 ### Completed 🏁
 
-- 🦩 **Exploring MinIO - ✅ DONE early May 2025** - deployed on a 4-node cluster (2 servers × 2 nodes each), secured with TLS. Cluster is managed via the mc client from a separate management machine
+- 🦩 **Explored MinIO - ✅ DONE early May 2025** - deployed on a 4-node cluster (2 servers × 2 nodes each), secured with TLS. Cluster is managed via the mc client from a separate management machine
 
 ### In Progress / Planned 📚
 
@@ -63,8 +63,8 @@ I am currently seeking my first professional challenges in data engineering, whe
 - 🔧 Running and testing Apache Spark on my own servers
 - 🔁 Learning CI/CD tools such as Jenkins or GitLab
 - 🐳 Gaining hands-on experience with virtualization and Docker
-- 🐍 Earning the **[PCAP™ – Certified Associate Python Programmer](https://pythoninstitute.org/pcap)**
-- 🧱 Earning the **[Databricks Associate Data Engineer certification](https://www.databricks.com/learn/certification/data-engineer-associate)**
+- 🐍 Preparing for the **[PCAP™ – Certified Associate Python Programmer](https://pythoninstitute.org/pcap)** exam
+- 🧱 Working toward the **[Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)** certification
 
 ## Reach Me 🤝
 
