@@ -63,11 +63,12 @@ I am currently seeking my first professional challenges in data engineering, whe
 - 🔧 Running and testing Apache Spark on my own servers
 - 🔁 Learning CI/CD tools such as Jenkins or GitLab
 - 🐳 Gaining hands-on experience with virtualization and Docker
-- 📜 Earning the [Databricks Associate Data Engineer certification](https://www.databricks.com/learn/certification/data-engineer-associate)
+- 🐍 Earning the **[PCAP™ – Certified Associate Python Programmer](https://pythoninstitute.org/pcap)**
+- 🧱 Earning the **[Databricks Associate Data Engineer certification](https://www.databricks.com/learn/certification/data-engineer-associate)**
 
 ## Reach Me 🤝
 
-- 📧 Email: stanislawszymanski89@gmail.com
-- 📱 Phone: +48 515 420 365
-- 🔗 [LinkedIn](https://www.linkedin.com/in/stanis%C5%82aw-szyma%C5%84ski-574ab0186/)
+- 📧 Email: **stanislawszymanski89@gmail.com**
+- 📱 Phone: **+48 515 420 365**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/stanis%C5%82aw-szyma%C5%84ski-574ab0186/)**
 
