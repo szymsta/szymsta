@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an **aspiring Big Data Engineer** 📊 and a graduate of postgraduate studies in **Big Data Engineering at SGH**, which I completed in **September 2024** 🎓.
+I'm **Stanisław** an **aspiring Big Data Engineer** 📊 and a graduate of postgraduate studies in **Big Data Engineering at SGH**, which I completed in **September 2024** 🎓.
 During my studies, I gained a solid foundation in technical skills:
 
     | 🐍 Python | 🧮 SQL | 🐧 Linux & 💻 Bash | ⚡ Apache Spark | 🧱 Databricks | ☁️ AWS |
