@@ -60,7 +60,7 @@ I am currently seeking my first professional challenges in data engineering, whe
 ### In Progress / Planned 📚
 
 - 🌊 Exploring Delta Lake
-- 🔧 Running and testing Apache Spark on my own servers
+- ⚡ Running and testing Apache Spark on my own cluster
 - 🔁 Learning CI/CD tools such as Jenkins or GitLab
 - 🐳 Gaining hands-on experience with virtualization and Docker
 - 🐍 Preparing for the **[PCAP™ – Certified Associate Python Programmer](https://pythoninstitute.org/pcap)** exam
