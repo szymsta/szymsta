@@ -63,7 +63,7 @@ I am currently seeking my first professional challenges in data engineering, whe
 - ⚡ Running and testing Apache Spark on my own cluster
 - 🔁 Learning CI/CD tools such as Jenkins or GitLab
 - 🐳 Gaining hands-on experience with virtualization and Docker
-- 🐍 Preparing for the **[PCAP™ – Certified Associate Python Programmer](https://pythoninstitute.org/pcap)** exam
+- 🐍 Preparing for the **[PCAP™ – Certified Associate Python Programmer](https://pythoninstitute.org/pcap)** exam 
 - 🧱 Working toward the **[Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)** certification
 - ☁️ Working toward the **[AWS Certified Data Engineer - Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/)** certification
 
