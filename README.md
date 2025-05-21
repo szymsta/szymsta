@@ -14,6 +14,8 @@ This experience strengthened my:
 
 I continue to develop my skills through online courses such as:
 
+- 👉 **[PCAP™ – Certified Associate Python Programmer PCAP-31-03](https://www.credly.com/badges/18f3d068-7655-45a0-ab25-10249809ec52)** - 🎖️ Issued by **Python Institute** in **May 2025**.
+
 - 👉 **[Git & GitHub](https://www.udemy.com/certificate/UC-f91307c0-a7dd-452f-84b0-60544ecfd1d4)** - 🎖️ Issued by **Udemy** in **April 2025**.
 
 - 👉 **[Databricks Fundamentals](https://credentials.databricks.com/206db1e4-8836-4785-88f6-3389619ddfe7#acc.lePzf6bd)** - 🎖️ Issued by **Databricks** in **March 2025**.
@@ -57,7 +59,7 @@ I am currently seeking my first professional challenges in data engineering, whe
 
 - 🦩 **Explored MinIO - ✅ DONE early May 2025** - deployed on a 4-node cluster (2 servers × 2 nodes each), secured with TLS. Cluster is managed via the mc client from a separate management machine
 
-- 🐍 **Completed PCAP™ - ✅ PASSED mid-May 2025 [PCAP™ – Certified Associate Python Programmer](https://pythoninstitute.org/pcap)** exam 
+- 🐍 **Completed PCAP™ - ✅ PASSED mid-May 2025 [PCAP™ – Certified Associate Python Programmer](https://www.credly.com/badges/18f3d068-7655-45a0-ab25-10249809ec52)** exam 
 
 ### In Progress / Planned 📚
 
