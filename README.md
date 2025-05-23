@@ -57,7 +57,7 @@ I am currently seeking my first professional challenges in data engineering, whe
   
 ### Completed 🏁
 
-- 🦩 **Explored MinIO - ✅ DONE early May 2025** - deployed on a 4-node cluster (2 servers × 2 nodes each), secured with TLS. Cluster is managed via the mc client from a separate management machine
+- 🦩 **Explored MinIO - ✅ DONE early May 2025** - deployed on a 4-node cluster (2 servers × 2 nodes each), secured with TLS; supports high availability (HA) and distributed mode; uses EC:2 (erasure coding with stripe size 4). Cluster managed via the mc client from a separate management machine.
 
 - 🐍 **Completed PCAP™ - ✅ PASSED mid-May 2025 [PCAP™ – Certified Associate Python Programmer](https://www.credly.com/badges/18f3d068-7655-45a0-ab25-10249809ec52)** exam 
 
