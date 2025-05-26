@@ -65,7 +65,7 @@ I am currently seeking my first professional challenges in data engineering, whe
 
 - ⚡ Running and testing Apache Spark on my own cluster
 - 🌊 Exploring Delta Lake
-- 🐳 Gaining hands-on experience with Docker for containerization and Kubernetes for container orchestration and cluster management
+- ☸️ Gaining hands-on experience with Docker for containerization and Kubernetes for container orchestration and cluster management
 - 🔁 Learning CI/CD tools such as Jenkins or GitLab
 - 🧱 Working toward the **[Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)** certification
 - ☁️ Working toward the **[AWS Certified Data Engineer - Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/)** certification
