@@ -47,8 +47,6 @@ As well as through personal projects like:
 
 ## Learning & Networking 🎓
 
-- 📚 I’m actively involved in the **[Big Data Academy community](https://akademia-bigdata.pl/members/staszym)**
-
 - 🧠 I regularly attend meetups like **[Warsaw Data Engineering](https://www.meetup.com/warsaw-data-engineering)**
 
 ## Goals 🎯
