@@ -45,9 +45,6 @@ As well as through personal projects like:
 
 - 🚢 **[Spark AIS Ships](https://github.com/szymsta/spark_ais_ships)** - A project that processes and visualizes ship AIS data using Apache Spark (PySpark).
 
-## Learning & Networking 🎓
-
-- 🧠 I regularly attend meetups like **[Warsaw Data Engineering](https://www.meetup.com/warsaw-data-engineering)**
 
 ## Goals 🎯
 
