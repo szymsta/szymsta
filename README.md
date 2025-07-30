@@ -63,7 +63,7 @@ I am currently seeking my first professional challenges in data engineering, whe
 - ☸️ Gaining hands-on experience with Docker for containerization and Kubernetes for container orchestration and cluster management
 - 🔁 Learning CI/CD tools such as Jenkins or GitLab
 - 🧱 Working toward the **[Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)** certification
-- ☁️ Working toward the **[DP-900: Microsoft Azure Data Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)** certification
+- ☁️ Working toward the **[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)** certification
 
 ## Reach Me 🤝
 
