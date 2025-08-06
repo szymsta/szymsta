@@ -48,7 +48,7 @@ As well as through personal projects like:
 
 ## Goals 🎯
 
-I am currently seeking my first professional challenges in data engineering, where I can further grow and apply my technical skills — especially in Big Data environments using tools like Apache Spark ⚡ and Databricks 🧱.  
+Outside of work, I actively develop my technical skills through personal projects, online courses, and continuous learning — always striving to stay up to date with modern data engineering tools and best practices.
   
 ### Completed 🏁
 
