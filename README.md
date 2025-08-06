@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Stanisław** an **aspiring Big Data Engineer** 📊 and a graduate of postgraduate studies in **Big Data Engineering at SGH**, which I completed in **September 2024** 🎓.
+I'm **Big Data Engineer** 📊 and a graduate of postgraduate studies in **Big Data Engineering at SGH**, which I completed in **September 2024** 🎓.
 During my studies, I gained a solid foundation in technical skills:
 
     | 🐍 Python | 🧮 SQL | 🐧 Linux & 💻 Bash | ⚡ Apache Spark | 🧱 Databricks | ☁️ AWS |
@@ -67,7 +67,5 @@ I am currently seeking my first professional challenges in data engineering, whe
 
 ## Reach Me 🤝
 
-- 📧 Email: **stanislawszymanski89@gmail.com**
-- 📱 Phone: **+48 515 420 365**
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/stanis%C5%82aw-szyma%C5%84ski-574ab0186/)**
 
